@@ -1,5 +1,3 @@
-# Naga Guttikonda, 116699495
-
 import sys
 
 def caesar_str_enc(ciphertext,k):
